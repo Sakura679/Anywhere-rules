@@ -1,0 +1,14 @@
+# A complete example
+name = 代理
+# routing: 0 Default · 1 Direct · 2 Reject (applied on first import only)
+routing = 0
+
+# domain_suffix
+2, neko.mo.cn
+
+# domain_keyword
+3, ryplay
+3, libretv
+3, acck
+3, akile
+3, dytt-cinema
