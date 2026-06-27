@@ -1,0 +1,16 @@
+# A complete example
+name = 直连
+# routing: 0 Default · 1 Direct · 2 Reject (applied on first import only)
+routing = 1
+
+# domain_suffix
+2, bilivideo.com
+2, bilivideo.cn
+2, upos
+
+# domain_keyword
+3, bf8bf
+3, mzm
+3, wlcdn
+3, apple
+3, cycani
