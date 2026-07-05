@@ -18,6 +18,7 @@ routing = 2
 3, p2p
 3, peer
 3, msedge
+3, badnews
 
 # IP rules
 0, 103.11.9.33/32
