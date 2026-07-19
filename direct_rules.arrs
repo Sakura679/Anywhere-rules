@@ -6,11 +6,13 @@ routing = 1
 # domain_suffix
 2, bilivideo.com
 2, bilivideo.cn
-2, upos
+2, cycani.org
+2, cycanime.com
+2, cycmedia.net
 
 # domain_keyword
 3, bf8bf
 3, mzm
 3, wlcdn
-3, cycani
 3, apple
+3, upos
