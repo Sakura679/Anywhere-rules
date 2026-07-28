@@ -4,16 +4,12 @@ name = Block
 routing = 2
 
 # domain
-1, httpdns.bilivideo.com
 
 # domain_suffix
 2, baidupcs.com
 2, xunlei.com
 2, cdn.qq.com
 2, cdn.letv.com
-2, mcdn.bilivideo.com
-2, mcdn.bilivideo.cn
-2, szbdyd.com
 
 # domain_keyword
 3, stun
@@ -23,6 +19,3 @@ routing = 2
 3, peer
 3, msedge
 3, badnews
-
-# IP rules
-0, 103.11.9.33/32
