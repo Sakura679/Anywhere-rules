@@ -3,6 +3,9 @@ name = 直连
 # routing: 0 Default · 1 Direct · 2 Reject (applied on first import only)
 routing = 1
 
+# domain
+1, jkv6.fxhdns.dpdns.org
+
 # domain_suffix
 2, cycani.org
 2, cycanime.com
